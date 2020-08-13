@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Remove this and add file back to tracked files for real use
+yarn.lock
